@@ -42,8 +42,8 @@ version: '1.4.5'
 # Menu setting | format = title_name: link_url
 menu:
   ABOUT: /whoami
-  CATEGORIES: /categories
-  TAGS: /tags
+  # CATEGORIES: /categories
+  # TAGS: /tags
   ARCHIVES: /archives
 
 # Page custom titles
