@@ -55,8 +55,8 @@ page_titles:
 # Social media links
 socials:
   github: 'https://github.com/xinbaojian'
-  # twitter: 'https://twitter.com/TriDiamond6'
-  # stackoverflow: 'https://stackoverflow.com/users/7602324/tridiamond?tab=profile'
+  twitter: '#'
+  stackoverflow: '#'
 
 # Enable table of content
 TOC: true
@@ -94,7 +94,7 @@ rss: atom.xml
 # ---------------------------------------------------------------
 
 # Auto play article audio
-autoplay: false
+autoplay: true
 
 # default mp3 file
 mp3:
@@ -181,7 +181,7 @@ header_html: ''
 
 # custom footer HTML
 footer_html: '
-<!-- 例：百度统计 -->
+<!-- 例：百度统计 
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -190,7 +190,7 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script>
+</script>-->
 '
 # Show previous post and next post in post footer if exists
 # Available values: true | false
